@@ -1,0 +1,9 @@
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\bin\Debug\databaseconnection.exe.config
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\bin\Debug\databaseconnection.exe
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\bin\Debug\databaseconnection.pdb
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\obj\Debug\databaseconnection.csprojResolveAssemblyReference.cache
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\obj\Debug\databaseconnection.Form1.resources
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\obj\Debug\databaseconnection.Properties.Resources.resources
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\obj\Debug\databaseconnection.csproj.GenerateResource.Cache
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\obj\Debug\databaseconnection.exe
+e:\users\gabel\documents\visual studio 2015\Projects\databaseconnection\databaseconnection\obj\Debug\databaseconnection.pdb
